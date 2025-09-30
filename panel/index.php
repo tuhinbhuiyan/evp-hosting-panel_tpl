@@ -98,7 +98,7 @@
 </head>
 <body>
     <div class="container">
-        <div class="logo">🖥[ICON] Email Verifier Pro</div>
+        <div class="logo">🖥 Email Verifier Pro</div>
         <div class="subtitle">Hosting Control Panel</div>
 
         <div class="server-info">
@@ -137,7 +137,7 @@
             </div>
 
             <div class="service">
-                <div class="service-title">🏗[ICON] Database</div>
+                <div class="service-title">🏗 Database</div>
                 <div>MariaDB</div>
                 <div class="status running">Running</div>
             </div>
